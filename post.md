@@ -115,7 +115,7 @@ Community is one of the most important factors to consider when choosing a frame
       </tr>
       <tr>
         <td>Third-Party Modules</td>
-        <td>1485 <a href="//ngmodules.org">ngmodules</a></td>
+        <td>1488 <a href="//ngmodules.org">ngmodules</a></td>
         <td>256 <a href="//backplug.io/">backplugs</a></td>
         <td>1155 <a href="//emberaddons.com/">emberaddons</a></td>
       </tr>
