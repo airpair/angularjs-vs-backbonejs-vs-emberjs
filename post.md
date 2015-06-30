@@ -109,42 +109,44 @@ Community is one of the most important factors to consider when choosing a frame
     <tbody>  
       <tr>
         <td>Stars on Github</td>
-        <td>27.2k</td>
+        <td>40.2k</td>
         <td>18.8k</td>
-        <td>11k</td>
+        <td>14.1k</td>
       </tr>
       <tr>
         <td>Third-Party Modules</td>
-        <td>800 <a href="//ngmodules.org">ngmodules</a></td>
-        <td>236 <a href="//backplug.io/">backplugs</a></td>
-        <td>21 <a href="//emberaddons.com/">emberaddons</a></td>
+        <td>1485 <a href="//ngmodules.org">ngmodules</a></td>
+        <td>256 <a href="//backplug.io/">backplugs</a></td>
+        <td>1155 <a href="//emberaddons.com/">emberaddons</a></td>
       </tr>
       <tr>
         <td>StackOverflow Questions</td>
-        <td>49.5k</td>
-        <td>15.9k</td>
-        <td>11.2k</td>
+        <td>104k</td>
+        <td>18.2k</td>
+        <td>15.7k</td>
       </tr>
       <tr>
         <td>YouTube Results</td>
-        <td>~75k</td>
-        <td>~16k</td>
-        <td>~6k</td>
+        <td>~93k</td>
+        <td>~10.6k</td>
+        <td>~9.1k</td>
       </tr>
       <tr>
         <td>GitHub Contributors</td>
-        <td>928</td>
-        <td>230</td>
-        <td>393</td>
+        <td>96</td>
+        <td>265</td>
+        <td>501</td>
       </tr>
       <tr>
         <td>Chrome Extension Users</td>
-        <td>150k</td>
-        <td>7k</td>
-        <td>38.3k</td>
+        <td>275k</td>
+        <td>15.6k</td>
+        <td>66k</td>
       </tr>
     </tbody>
   </table>
+
+> *Last updated on 30/06/2015*
 
 All those metrics, however, merely show the current state of each framework. It is also interesting to see which framework has a faster-growing popularity. Fortunately, using Google Trends we can get an answer for that too:
 
