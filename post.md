@@ -143,6 +143,18 @@ Community is one of the most important factors to consider when choosing a frame
         <td>15.6k</td>
         <td>66k</td>
       </tr>
+      <tr>
+        <td>Open Issues</td>
+        <td>922</td>
+        <td>13</td>
+        <td>413</td>
+      </tr>
+      <tr>
+        <td>Closed Issues</td>
+        <td>5,520</td>
+        <td>2,062</td>
+        <td>3,350</td>
+      </tr>      
     </tbody>
   </table>
 
