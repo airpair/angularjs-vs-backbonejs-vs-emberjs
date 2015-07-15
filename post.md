@@ -95,7 +95,7 @@ Ember's roots go way back to 2007. Starting its life as the SproutCore MVC frame
 
 ##3 Community
 
-Community is one of the most important factors to consider when choosing a framework. A large community means more questions answered, more third-party modules, more YouTube tutorials&hellip;you get the point. I have put together a table with the numbers, as of June 30, 2015. Angular is definitely the winner here, being the 6th most-starred project on GitHub and having more questions on StackOverflow than Ember and Backbone combined, as you can see below:
+Community is one of the most important factors to consider when choosing a framework. A large community means more questions answered, more third-party modules, more YouTube tutorials&hellip;you get the point. I have put together a table with the numbers, as of June 30, 2015. Angular is definitely the winner here, being the 3rd most-starred project on GitHub and having more questions on StackOverflow than Ember and Backbone combined, as you can see below:
 
   <table class="tut-table tut-table-bordered">
     <thead>
