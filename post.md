@@ -95,7 +95,7 @@ Ember's roots go way back to 2007. Starting its life as the SproutCore MVC frame
 
 ##3 Community
 
-Community is one of the most important factors to consider when choosing a framework. A large community means more questions answered, more third-party modules, more YouTube tutorials&hellip;you get the point. I have put together a table with the numbers, as of August 16, 2014. Angular is definitely the winner here, being the 6th most-starred project on GitHub and having more questions on StackOverflow than Ember and Backbone combined, as you can see below:
+Community is one of the most important factors to consider when choosing a framework. A large community means more questions answered, more third-party modules, more YouTube tutorials&hellip;you get the point. I have put together a table with the numbers, as of June 30, 2015. Angular is definitely the winner here, being the 6th most-starred project on GitHub and having more questions on StackOverflow than Ember and Backbone combined, as you can see below:
 
   <table class="tut-table tut-table-bordered">
     <thead>
@@ -109,40 +109,52 @@ Community is one of the most important factors to consider when choosing a frame
     <tbody>  
       <tr>
         <td>Stars on Github</td>
-        <td>27.2k</td>
+        <td>40.2k</td>
         <td>18.8k</td>
-        <td>11k</td>
+        <td>14.1k</td>
       </tr>
       <tr>
         <td>Third-Party Modules</td>
-        <td>800 <a href="//ngmodules.org">ngmodules</a></td>
-        <td>236 <a href="//backplug.io/">backplugs</a></td>
-        <td>21 <a href="//emberaddons.com/">emberaddons</a></td>
+        <td>1488 <a href="//ngmodules.org">ngmodules</a></td>
+        <td>256 <a href="//backplug.io/">backplugs</a></td>
+        <td>1155 <a href="//emberaddons.com/">emberaddons</a></td>
       </tr>
       <tr>
         <td>StackOverflow Questions</td>
-        <td>49.5k</td>
-        <td>15.9k</td>
-        <td>11.2k</td>
+        <td>104k</td>
+        <td>18.2k</td>
+        <td>15.7k</td>
       </tr>
       <tr>
         <td>YouTube Results</td>
-        <td>~75k</td>
-        <td>~16k</td>
-        <td>~6k</td>
+        <td>~93k</td>
+        <td>~10.6k</td>
+        <td>~9.1k</td>
       </tr>
       <tr>
         <td>GitHub Contributors</td>
-        <td>928</td>
-        <td>230</td>
-        <td>393</td>
+        <td>96</td>
+        <td>265</td>
+        <td>501</td>
       </tr>
       <tr>
         <td>Chrome Extension Users</td>
-        <td>150k</td>
-        <td>7k</td>
-        <td>38.3k</td>
+        <td>275k</td>
+        <td>15.6k</td>
+        <td>66k</td>
       </tr>
+      <tr>
+        <td>Open Issues</td>
+        <td>922</td>
+        <td>13</td>
+        <td>413</td>
+      </tr>
+      <tr>
+        <td>Closed Issues</td>
+        <td>5,520</td>
+        <td>2,062</td>
+        <td>3,350</td>
+      </tr>      
     </tbody>
   </table>
 
